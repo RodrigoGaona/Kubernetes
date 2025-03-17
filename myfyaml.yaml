@@ -10,7 +10,14 @@ spec:
   containers:
   - image: nginx
     name: yamlr
+    volumeMounts: 
+      -mountPath: "/scratch"
+      name: my-volume
     resources: {}
+  volumes: 
+    -name: my-volume
+    emptyDir: 
+      sizeLimit:50mi
   dnsPolicy: ClusterFirst
   restartPolicy: Always
 status: {}
