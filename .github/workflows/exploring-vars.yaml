@@ -1,0 +1,19 @@
+name: Greeting variable day 
+
+on: 
+  workflow_dispatch
+
+env: 
+  DAY_OF_WEEK: Monday
+
+jobs: 
+  greeting_job: 
+    runs-on: ubunt-latest
+    env:
+      Greeting: Hello
+    steps:
+      - name: "Say Hello Rodrigo it´s Monday"
+        run: echo "$Greeting $First_Name. Today is $DAY_OF_WEEK?"
+        env:
+          First_Name: Rodrigo
+       
