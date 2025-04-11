@@ -1,0 +1,29 @@
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\appsettings.json
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.exe
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.deps.json
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.runtimeconfig.json
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.dll
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.pdb
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Moq.dll
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.csproj.AssemblyReference.cache
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.AssemblyInfoInputs.cache
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.AssemblyInfo.cs
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.csproj.CoreCompileInputs.cache
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets\msbuild.Exploring Actions3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets\msbuild.build.Exploring Actions3.props
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exploring Actions3.props
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exploring Actions3.props
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\scopedcss\bundle\Exploring Actions3.styles.css
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.csproj.CopyComplete
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.dll
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\refint\Exploring Actions3.dll
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.pdb
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.genruntimeconfig.cache
+C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\ref\Exploring Actions3.dll
