@@ -16,18 +16,18 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Restore dependencies
-        run: dotnet restore ./netcore/Exploring Actions3/Exploring Actions3.sln
+        run: dotnet restore ./Exploring Actions3/Exploring Actions3.sln
 
       - name: Build the solution
-        run: dotnet build ./netcore/Exploring Actions3/Exploring Actions3.sln
+        run: dotnet build ./Exploring Actions3/Exploring Actions3.sln
 
       - name: Run unit tests with report
-        run: dotnet test ./netcore/Exploring Actions3/Exploring Actions3/Exploring Actions3.csproj --configuration Release --no-build --logger "trx;LogFileName=TestResults.trx"
+        run: dotnet test ./Exploring Actions3/Exploring Actions3/Exploring Actions3.csproj --configuration Release --no-build --logger "trx;LogFileName=TestResults.trx"
         
       - name: Upload test results
         uses: actions/upload-artifact@v4
         with:
           name: TestResults
-          path: ./netcore/Exploring Actions3/TestController/WeatherForecastControllerTest.cs
+          path: ./Exploring Actions3/TestController/WeatherForecastControllerTest.cs
 
 
