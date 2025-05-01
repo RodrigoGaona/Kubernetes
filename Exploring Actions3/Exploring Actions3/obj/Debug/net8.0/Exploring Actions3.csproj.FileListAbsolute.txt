@@ -27,3 +27,33 @@ C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3
 C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.pdb
 C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.genruntimeconfig.cache
 C:\Users\rgaon\OneDrive\Imágenes\Tieditas\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\ref\Exploring Actions3.dll
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\appsettings.Development.json
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\appsettings.json
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.exe
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.deps.json
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.runtimeconfig.json
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.dll
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Exploring Actions3.pdb
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Castle.Core.dll
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\bin\Debug\net8.0\Moq.dll
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.csproj.AssemblyReference.cache
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.AssemblyInfoInputs.cache
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.AssemblyInfo.cs
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.csproj.CoreCompileInputs.cache
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.MvcApplicationPartsAssemblyInfo.cache
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.sourcelink.json
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets\msbuild.Exploring Actions3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets\msbuild.build.Exploring Actions3.props
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exploring Actions3.props
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exploring Actions3.props
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\scopedcss\bundle\Exploring Actions3.styles.css
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.csproj.CopyComplete
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.dll
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\refint\Exploring Actions3.dll
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.pdb
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\Exploring Actions3.genruntimeconfig.cache
+C:\Kubernetes\Kubernetes\Exploring Actions3\Exploring Actions3\obj\Debug\net8.0\ref\Exploring Actions3.dll

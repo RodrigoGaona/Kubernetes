@@ -143,11 +143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
+      "projectUniqueName": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
       "projectName": "Exploring Actions3",
-      "projectPath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
+      "projectPath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
       "packagesPath": "C:\\Users\\rgaon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\obj\\",
+      "outputPath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rgaon\\AppData\\Roaming\\NuGet\\NuGet.Config",

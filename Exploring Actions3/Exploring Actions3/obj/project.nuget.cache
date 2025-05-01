@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ONvawP/Z7kAmPhx5Vlq4Rn4AKpP+r26I936dX8mB0gl80CpVb0b6DBV7Z10B6h4xM/ui0ZyBsORJxYXhd3RzA==",
+  "dgSpecHash": "4t0e/l1KSpH0zAGPBJFrUmwuj7JH9MXFaBKpGOv/2GBe7zyW+rqTgFO0rS2GCPzRfVBhR+dSDJislP4H39regw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
+  "projectFilePath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rgaon\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\rgaon\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",

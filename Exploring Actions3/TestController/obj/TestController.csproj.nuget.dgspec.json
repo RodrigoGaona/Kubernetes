@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\TestController\\TestController.csproj": {}
+    "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\TestController\\TestController.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj": {
+    "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
+        "projectUniqueName": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
         "projectName": "Exploring Actions3",
-        "projectPath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
+        "projectPath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj",
         "packagesPath": "C:\\Users\\rgaon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\obj\\",
+        "outputPath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgaon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\TestController\\TestController.csproj": {
+    "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\TestController\\TestController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\TestController\\TestController.csproj",
+        "projectUniqueName": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\TestController\\TestController.csproj",
         "projectName": "TestController",
-        "projectPath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\TestController\\TestController.csproj",
+        "projectPath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\TestController\\TestController.csproj",
         "packagesPath": "C:\\Users\\rgaon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\TestController\\obj\\",
+        "outputPath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\TestController\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgaon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj": {
-                "projectPath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj"
+              "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj": {
+                "projectPath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\Exploring Actions3\\Exploring Actions3.csproj"
               }
             }
           }

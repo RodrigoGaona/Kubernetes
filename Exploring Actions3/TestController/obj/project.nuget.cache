@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHcrUK3BYD78gpXkJalk08msvYPEaZ6xOPYlhuVh7P/aw8uHibwYxZtiD7LXNIvnSqAG3uubMulY7kAbuKp/zg==",
+  "dgSpecHash": "hAi2lKpItr03DO3zwGOoE+62IFKIdphAtW0xow5GJaG7ExvPTXCxbxQ/6cEFysm61Q6WnOUP5uObRd5rdULsJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rgaon\\OneDrive\\Imágenes\\Tieditas\\Exploring Actions3\\TestController\\TestController.csproj",
+  "projectFilePath": "C:\\Kubernetes\\Kubernetes\\Exploring Actions3\\TestController\\TestController.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rgaon\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\rgaon\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
